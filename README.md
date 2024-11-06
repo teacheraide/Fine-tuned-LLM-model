@@ -4,10 +4,7 @@ This project demonstrates the fine-tuning of a causal language model using the [
 
 ## Requirements
 
-To run this code, install the following Python packages:
-
-```bash
-pip install datasets transformers peft
+To run this code, install the following Python packages: pip install datasets transformers peft
 
 ## Code Overview
 The following steps outline the process of preparing and fine-tuning the model.
