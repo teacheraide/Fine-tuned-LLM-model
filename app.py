@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # Your Hugging Face API key
-api_key = "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"
+api_key = "APIKEY"
 
 # Hugging Face Inference API endpoint
 hf_endpoint = "https://api-inference.huggingface.co/models/microsoft/Phi-3-mini-4k-instruct"
